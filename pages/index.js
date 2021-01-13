@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <p className={styles.cta}>
-          Now check out this <Link href='/new-page'><a>new page <i class="fal fa-chevron-right"></i></a></Link>
+          Now check out this <Link href='/new-page'><a>new page <i className="fal fa-chevron-right"></i></a></Link>
         </p>
       </main>
 

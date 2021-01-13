@@ -1,22 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Running This Example
 
-First, run the development server:
+Export your kit token into the shell with
 
 ```bash
-npm run dev
-# or
-yarn dev
+export FA_KIT_TOKEN={your kit token}
 ```
 
-To build the site and launch in prod mode, run
+Then build the site
 
 ```bash
 npm run build
 ```
 
-followed by
+and launch in prod mode with
 
 ```bash
 npm start
